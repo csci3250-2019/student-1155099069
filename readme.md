@@ -2,7 +2,7 @@
 
 ## About me:
 
-Hello, my name is Abdalla Moustafa, a year 2 student majoring in Computer Science.
+Hello, my name is Abdalla Moustafa, a year 2 student majoring in **Computer Science**.
 
 ## Hobbies:
 
@@ -10,14 +10,24 @@ I dedicate most of my free time for taking pictures. I have been taking photogra
 
 ## Experiences Related to CS
 
-I have been working with React framework a lot recently and I'm planning to create a personal website during summer. Apart from that, I have been learning how to use tensorflow library in python and I intend on learning all the necessary skills both in programming and statistics to create a machine learning model on my own.
+I have been working with React framework a lot recently and I'm planning to create a personal website during summer. Apart from that, I have been learning how to use Tensorflow library in python and I intend on learning all the necessary skills both in programming and statistics to create a machine learning model on my own.
 
-### Fields I'm interested in:
+This is my first python code:
 
-* Computer Vision
-* Artificial Intelligence and Machine Learning
-* Particle Accelerators
-* Space exploration
+```python
+print("Hello World, our course will start in "):
+for x in range(0, 10):
+    print((10 - x)):
+
+print("!"):
+```
+
+### *Fields I'm interested in:*
+
+1. *Computer Vision
+2. Artificial Intelligence and Machine Learning
+3. Particle Accelerators
+4. Space exploration
 
 ## Some more info about me:
 
@@ -25,7 +35,7 @@ I have been working with React framework a lot recently and I'm planning to crea
 |-----------------|-------------------------|--------------------------------|-------------------|
 | Football        | Barcelona               | Python 3                       | Physics           |
 
-### Things I'd love to do this year
+### *Things I'd love to do this year*
 
 - [ ] Get a good internship
 - [x] Learn a new programming language or framework (React or Tensorflow)
