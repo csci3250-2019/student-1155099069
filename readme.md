@@ -24,7 +24,7 @@ print("!"):
 
 ### *Fields I'm interested in:*
 
-1. *Computer Vision
+1. Computer Vision
 2. Artificial Intelligence and Machine Learning
 3. Particle Accelerators
 4. Space exploration
